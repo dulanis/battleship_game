@@ -1,1 +1,1 @@
-Hello Git and GitHub
+This is one of the very first python projects I made when I was first learning python, hence why it is written in python 2 rather than python 3. It is an interactive battleship game where the user interacts with the computer to guess where the computer-generated battleship is hidden within the gameboard.
